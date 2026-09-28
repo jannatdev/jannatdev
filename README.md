@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/60PvkbrW/Jannatul-Ferdous.jpg" alt="Jannatul-Ferdous" border="0">
+<img src="https://i.ibb.co.com/60PvkbrW/Jannatul-Ferdous.jpg" alt="Jannatul-Ferdous" width="1600px" height="700px" border="0">
 
 
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
