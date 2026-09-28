@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [at Programming Hero](at Programming Hero)
+- 🔭 I’m currently working on Web Developing
 
 - 🌱 I’m currently learning **javaScript,react, next.js**
 
