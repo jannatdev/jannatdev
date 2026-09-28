@@ -1,3 +1,7 @@
+
+<img src="https://i.ibb.co.com/60PvkbrW/Jannatul-Ferdous.jpg" alt="Jannatul-Ferdous" border="0">
+
+
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
@@ -11,10 +15,7 @@
 
 - 📄 Know about my experiences [WWW.WDjANNAT.COM](WWW.WDjANNAT.COM)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jannatulferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatulferdous" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
