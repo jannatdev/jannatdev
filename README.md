@@ -1,22 +1,26 @@
 
-<a href="https://ibb.co.com/yc1Bx9GR"><img src="https://i.ibb.co.com/0RSVz78X/Jannatul-Ferdous.jpg" alt="Jannatul-Ferdous" border="0"></a>
+<a href="https://ibb.co.com/wN995h8p"><img src="https://i.ibb.co.com/hRPP3Fr2/Cover-Photo.jpg" alt="Cover-Photo" border="0"></a>
+ 
+<br/>
+<br/>
 
 Hi 👋 My name is jannatul ferdous
 =================================
-
+<br/>
 Aspiring Full Stuck Web Developer
 ---------------------------------
 
 Aspiring Full-Stack Web Developer | Building web applications | Turning ideas into web experiences | Growing into a skilled Full-Stack Developer
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [jannat2557@gmail.com](mailto:jannat2557@gmail.com)
-* 🧠  I'm currently learning React,NextJs
-* 👥  I'm looking to collaborate on Website Developing
+* 🌍  I'm based in Bangladesh <br/>
+* ✉️  You can contact me at [jannat2557@gmail.com](mailto:jannat2557@gmail.com)<br/>
+* 🧠  I'm currently learning React,NextJs<br/>
+* 👥  I'm looking to collaborate on Website Developing <br/>
 
+<br/>
+<br/>
 
-
-## 👉 My Skills
+## 👉 My Skills <br/>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -27,23 +31,25 @@ Aspiring Full-Stack Web Developer | Building web applications | Turning ideas in
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
 </p>
-
-
-## 🎯Socials
+<br/>
+<br/>
+## 🎯Socials <br/>
 
 <p align="left"> <a href="https://www.github.com/jannatdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/wdjannat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.behance.com/jannatferdous5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://discord.com/users/jannatulferdous" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/jannat.jannat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
-
+<br/>
+<br/>
 ## 🔰 My GitHub Stats
-
+<br/>
 <a href="http://www.github.com/jannatdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jannatdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/jannatdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+<br/>
+<br/>
 
 ## 🌠 Top Repositories
-
+<br/>
 <div width="100%" align="center"><a href="https://github.com/jannatdev/react-assignment-devstack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jannatdev&repo=react-assignment-devstack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jannatdev/assignment-6-fit-log" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jannatdev&repo=assignment-6-fit-log&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
