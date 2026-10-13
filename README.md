@@ -60,7 +60,7 @@ Aspiring Full-Stack Web Developer | Building web applications | Turning ideas in
 ## 🌠 Top Repositories
 <br/>
 
-<div width="100%" align="center"><a href="https://github.com/jannatdev/react-assignment-devstack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jannatdev&repo=react-assignment-devstack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jannatdev/assignment-6-fit-log" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jannatdev&repo=assignment-6-fit-log&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
+<div width="100%" align="center"><a href="https://github.com/jannatdev/react-assignment-devstack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jannatdev&repo=react-assignment-devstack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> <a href="https://github.com/jannatdev/assignment-6-fit-log" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jannatdev&repo=assignment-6-fit-log&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
 
 
 
